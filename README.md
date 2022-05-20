@@ -53,7 +53,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
 
-Inspired in [PyExeMaker](https://getbootstrap.com), with [PySimpleGui](https://getbootstrap.com) and the same style.
+Inspired in [PyExeMaker](https://pyexemaker.soft112.com), with [PySimpleGui](https://pysimplegui.readthedocs.io/en/latest/) and the same style.
 
 Here's why:
 
