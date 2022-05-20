@@ -1,0 +1,16 @@
+{
+    "pythonpath": "D:/Work/PySimpleGui-ExeMaker/.venv",
+    "workdirectory": "D:/Work/PySimpleGui-ExeMaker",
+    "sourcepythonfile": "D:/Work/PySimpleGui-ExeMaker/app/PyExeMaker.py",
+    "iconfile": "D:/Work/PySimpleGui-ExeMaker/resources/navigatorsimple.ico",
+    "filevers": "1,4,0",
+    "prodvers": "1,4,0",
+    "CompanyName": "teckscam",
+    "FileDescription": "create an exe from python script",
+    "FileVersion": "1.4.0",
+    "InternalName": "PyExeMaker",
+    "LegalCopyright": "MIT license",
+    "OriginalFilename": "PyExeMaker",
+    "ProductName": "PyExeMaker",
+    "ProductVersion": "1.4.0"
+}

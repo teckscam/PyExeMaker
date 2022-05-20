@@ -1,0 +1,16 @@
+{
+    "pythonpath": "<venvPath>",
+    "workdirectory": "",
+    "sourcepythonfile": "",
+    "iconfile": "",
+    "filevers": "0,1,0",
+    "prodvers": "0,1,0",
+    "CompanyName": "company",
+    "FileDescription": "",
+    "FileVersion": "0.1.0",
+    "InternalName": "",
+    "LegalCopyright": "<YourCompany>",
+    "OriginalFilename": "",
+    "ProductName": "",
+    "ProductVersion": "0.1.0"
+}

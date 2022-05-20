@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "pysimplegui-exemaker"
+version = "1.2.10"
+description = "Make an exe from python script."
+authors = ["Paulo Jorge <teckscam@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+json5 = "^0.9.6"
+PySimpleGUI = "4.34.0"
+configparser = "5.0.2"
+pathlib = "1.0.1"
+pyinstaller = "^4.5.1"
+update = "^0.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "6.2.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
