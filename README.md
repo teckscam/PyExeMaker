@@ -5,7 +5,6 @@
 
   <p align="center">
     <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="resources/logo.png" alt="Logo" width="880" height="480">
   </a>
     <br />
@@ -13,7 +12,6 @@
     -
     </p>
     <p align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the documentation »</strong></a>
     <br />
   </p>
 </p>
