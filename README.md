@@ -62,12 +62,13 @@ Here's why:
 
 ### Built With
 
-* [PySimpleGui](https://getbootstrap.com)
-* [PyInstaller](https://jquery.com)
+* [PySimpleGui](https://github.com/PySimpleGUI/PySimpleGUI)
+* [PyInstaller](https://github.com/pyinstaller/pyinstaller)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
+<!--
 All you need to use the software.
 
 Portable folder mode. Note: only use config folder "user/local/PySimpleGui-ExeMaker"
@@ -77,8 +78,14 @@ Portable folder mode. Note: only use config folder "user/local/PySimpleGui-ExeMa
  
  * make and compile your self
  #
+-->
+
 ### Prerequisites
 
+* Clone the repo
+   ```sh
+   git clone https://github.com/teckscam/PyExeMaker.git
+ 
 * Create a virtual env
   ```sh
   python venv venv
@@ -87,24 +94,19 @@ Portable folder mode. Note: only use config folder "user/local/PySimpleGui-ExeMa
   ```sh
   pip install -r requirements.txt
   ```
-### Installation
+* Use poetry commands
+```
+    poetry build <package>
 
-* Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+```
+
    ```
 <!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/teckscam/PyExeMaker/issues) for a list of proposed features (and known issues).
 
 ---
 <!-- Changelog -->
@@ -133,7 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Paulo Santos - [GitHub](https://twitter.com/your_username) - teckscam@gmail.com
+Paulo Santos - [GitHub](https://github.com/teckscam) - teckscam@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/teckscam/PyExeMaker](https://github.com/teckscam/PyExeMaker)
 
